@@ -1,1 +1,1 @@
-# APUE
+# APUENotes and code from APUE (Advanced Programming in the Unix Environment).The book can be found [here](https://www.amazon.com/Programming-Environment-Addison-Wesley-Professional-Computing/dp/0321525949).
