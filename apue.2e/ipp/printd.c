@@ -1,7 +1,7 @@
 /*
  * Print server daemon.
  */
-#include "apue.h"
+#include "../include/apue.h"
 #include "print.h"
 #include "ipp.h"
 #include <fcntl.h>

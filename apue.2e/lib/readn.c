@@ -1,4 +1,4 @@
-#include "apue.h"
+#include "../include/apue.h"
 
 ssize_t             /* Read "n" bytes from a descriptor  */
 readn(int fd, void *ptr, size_t n)

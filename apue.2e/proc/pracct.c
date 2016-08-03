@@ -1,4 +1,4 @@
-#include "apue.h"
+#include "../include/apue.h"
 #include <sys/acct.h>
 
 #ifdef HAS_SA_STAT

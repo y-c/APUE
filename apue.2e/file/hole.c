@@ -1,4 +1,4 @@
-#include "apue.h"
+#include "../include/apue.h"
 #include <fcntl.h>
 
 char	buf1[] = "abcdefghij";

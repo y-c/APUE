@@ -1,4 +1,4 @@
-#include "apue.h"
+#include "../include/apue.h"
 
 #define	MAXARGC		50	/* max number of arguments in buf */
 #define	WHITE	" \t\n"	/* white space for tokenizing arguments */

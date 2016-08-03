@@ -1,4 +1,4 @@
-#include "apue.h"
+#include "../include/apue.h"
 #include <pthread.h>
 
 int			quitflag;	/* set nonzero by thread */

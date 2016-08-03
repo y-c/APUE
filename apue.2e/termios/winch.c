@@ -1,4 +1,4 @@
-#include "apue.h"
+#include "../include/apue.h"
 #include <termios.h>
 #ifndef	TIOCGWINSZ
 #include <sys/ioctl.h>

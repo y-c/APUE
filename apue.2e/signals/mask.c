@@ -1,4 +1,4 @@
-#include "apue.h"
+#include "../include/apue.h"
 #include <setjmp.h>
 #include <time.h>
 

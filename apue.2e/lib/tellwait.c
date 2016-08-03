@@ -1,4 +1,4 @@
-#include "apue.h"
+#include "../include/apue.h"
 
 static volatile sig_atomic_t sigflag; /* set nonzero by sig handler */
 static sigset_t newmask, oldmask, zeromask;

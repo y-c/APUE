@@ -1,4 +1,4 @@
-#include "apue.h"
+#include "../include/apue.h"
 #include <sys/wait.h>
 
 #define	DEF_PAGER	"/bin/more"		/* default pager program */

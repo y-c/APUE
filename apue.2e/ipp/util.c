@@ -1,4 +1,4 @@
-#include "apue.h"
+#include "../include/apue.h"
 #include "print.h"
 #include <ctype.h>
 #include <sys/select.h>

@@ -1,4 +1,4 @@
-#include "apue.h"
+#include "../include/apue.h"
 #include <sys/shm.h>
 
 #define	ARRAY_SIZE	40000

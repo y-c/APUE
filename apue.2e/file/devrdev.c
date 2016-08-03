@@ -1,4 +1,4 @@
-#include "apue.h"
+#include "../include/apue.h"
 #ifdef SOLARIS
 #include <sys/mkdev.h>
 #endif

@@ -1,4 +1,4 @@
-#include "apue.h"
+#include "../include/apue.h"
 
 int		glob = 6;		/* external variable in initialized data */
 char	buf[] = "a write to stdout\n";
