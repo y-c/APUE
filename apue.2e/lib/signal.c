@@ -1,4 +1,4 @@
-#include "../include/apue.h"
+#include "apue.h"
 
 /* Reliable version of signal(), using POSIX sigaction().  */
 Sigfunc *

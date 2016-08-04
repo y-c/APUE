@@ -1,4 +1,4 @@
-#include "../include/apue.h"
+#include "apue.h"
 
 /*
  * Used when we had planned to send an fd using send_fd(),

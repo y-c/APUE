@@ -1,4 +1,4 @@
-#include "../include/apue.h"
+#include "apue.h"
 #if defined(BSD) || defined(MACOS)
 #include <sys/time.h>
 #define FMT	"%10lld  "

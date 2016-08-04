@@ -1,4 +1,4 @@
-#include "../include/apue.h"
+#include "apue.h"
 #include <netdb.h>
 #include <arpa/inet.h>
 #if defined(BSD) || defined(MACOS)

@@ -1,4 +1,4 @@
-#include "../include/apue.h"
+#include "apue.h"
 
 int		glob = 6;		/* external variable in initialized data */
 

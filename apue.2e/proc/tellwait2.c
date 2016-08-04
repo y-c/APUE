@@ -1,4 +1,4 @@
-#include "../include/apue.h"
+#include "apue.h"
 
 static void charatatime(char *);
 

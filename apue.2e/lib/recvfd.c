@@ -1,4 +1,4 @@
-#include "../include/apue.h"
+#include "apue.h"
 #ifdef MACOS
 #include <sys/uio.h>
 #endif

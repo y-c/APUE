@@ -1,4 +1,4 @@
-#include "../include/apue.h"
+#include "apue.h"
 
 static void	f1(void), f2(void);
 

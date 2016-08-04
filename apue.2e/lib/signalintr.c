@@ -1,4 +1,4 @@
-#include "../include/apue.h"
+#include "apue.h"
 
 Sigfunc *
 signal_intr(int signo, Sigfunc *func)

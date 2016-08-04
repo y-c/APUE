@@ -1,4 +1,4 @@
-#include	"./call.h"
+#include	"call.h"
 #include	<sys/uio.h>		/* struct iovec */
 
 /*

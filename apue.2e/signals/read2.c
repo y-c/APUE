@@ -1,4 +1,4 @@
-#include "../include/apue.h"
+#include "apue.h"
 #include <setjmp.h>
 
 static void		sig_alrm(int);

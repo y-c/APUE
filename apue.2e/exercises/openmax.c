@@ -1,4 +1,4 @@
-#include "../include/apue.h"
+#include "apue.h"
 #include <limits.h>
 #include <sys/resource.h>
 

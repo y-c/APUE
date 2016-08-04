@@ -1,4 +1,4 @@
-#include "../include/apue.h"
+#include "apue.h"
 #include <sys/wait.h>
 
 #define	PAGER	"${PAGER:-more}" /* environment variable, or default */

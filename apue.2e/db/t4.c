@@ -1,4 +1,4 @@
-#include "../include/apue.h"
+#include "apue.h"
 #include "apue_db.h"
 #include <fcntl.h>
 

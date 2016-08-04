@@ -1,4 +1,4 @@
-#include "../include/apue.h"
+#include "apue.h"
 
 #ifdef SOLARIS
 #define PSCMD	"ps -a -o pid,ppid,s,tty,comm"

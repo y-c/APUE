@@ -1,4 +1,4 @@
-#include "../include/apue.h"
+#include "apue.h"
 #include <sys/times.h>
 
 static void	pr_times(clock_t, struct tms *, struct tms *);

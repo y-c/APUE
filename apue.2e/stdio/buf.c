@@ -1,4 +1,4 @@
-#include "../include/apue.h"
+#include "apue.h"
 
 #if defined(MACOS)
 #define _IO_UNBUFFERED	__SNBF

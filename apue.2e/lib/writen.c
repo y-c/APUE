@@ -1,4 +1,4 @@
-#include "../include/apue.h"
+#include "apue.h"
 
 ssize_t             /* Write "n" bytes to a descriptor  */
 writen(int fd, const void *ptr, size_t n)

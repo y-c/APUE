@@ -1,4 +1,4 @@
-#include "../include/apue.h"
+#include "apue.h"
 #include <errno.h>
 
 #define	CS_CALL	"/home/sar/calld"	/* well-known name */
